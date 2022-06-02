@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  backend-chart:
+  laravel-chart:
   - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2022-05-28T17:23:26.6153787+02:00"
+    appVersion: 1.2.0
+    created: "2022-06-02T10:33:53.6938365+02:00"
     description: Helm chart utilisée pour déployer l'application laravel
-    digest: d36a3175cf93a6f8392b36952785a1373799b34acbe54730cd0362802236a9af
-    name: backend-chart
+    digest: 70d537027f14b51db2261e84b4bbb76a0abad1e4484a1a1995b6981644565533
+    name: laravel-chart
     type: application
     urls:
-    - backend-chart-0.2.0.tgz
+    - laravel-chart-0.2.0.tgz
     version: 0.2.0
-generated: "2022-05-28T17:23:26.6142188+02:00"
+generated: "2022-06-02T10:33:53.6878407+02:00"
